@@ -1,0 +1,38 @@
+#EXTM3U
+#PLAYLIST:iptvmate.com
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28123.jpg" group-title="Brazil",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28124.jpg" group-title="Brazil",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28125.jpg" group-title="Brazil",Brasil IPTV_110
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28126.jpg" group-title="Brazil",Brasil IPTV_27
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28127.jpg" group-title="Brazil",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28128.jpg" group-title="Brazil",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28129.jpg" group-title="Brazil",Canal Ricos
+https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28130.jpg" group-title="Brazil",Canal do Boi
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28131.jpg" group-title="Brazil",GLOBO MINAS HD
+http://supersonictv.live:25461/903310/034806/73202?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28132.jpg" group-title="Brazil",Rádio Jornal
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28133.jpg" group-title="Brazil",SPORTV 2 HD
+http://supersonictv.live:25461/903310/034806/73256?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28134.jpg" group-title="Brazil",SPORTV HD
+http://supersonictv.live:25461/903310/034806/73258?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28135.jpg" group-title="Brazil",TV ALMG
+https://streaming.almg.gov.br/live/tvalmg.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28136.jpg" group-title="Brazil",TV GIDEOES SD
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28137.jpg" group-title="Brazil",TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28138.jpg" group-title="Brazil",Viva Web TV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28139.jpg" group-title="Brazil",Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="br" tvg-logo="https://images.iptvmate.net/playlists/28140.jpg" group-title="Brazil",TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?source:iptvmate.net

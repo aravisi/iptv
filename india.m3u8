@@ -1,0 +1,112 @@
+#EXTM3U
+#PLAYLIST:iptvmate.com
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28160.jpg" group-title="India",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28161.jpg" group-title="India",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28162.jpg" group-title="India",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28163.jpg" group-title="India",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28164.jpg" group-title="India",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28165.jpg" group-title="India",ABP Asmita
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28166.jpg" group-title="India",APB
+https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28167.jpg" group-title="India",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28168.jpg" group-title="India",Aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28169.jpg" group-title="India",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28170.jpg" group-title="India",CNN
+http://203.162.235.41:16918?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28171.jpg" group-title="India",Channel-S Live TV
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28172.jpg" group-title="India",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28173.jpg" group-title="India",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28174.jpg" group-title="India",DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28175.jpg" group-title="India",DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28176.jpg" group-title="India",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28177.jpg" group-title="India",Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28178.jpg" group-title="India",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28179.jpg" group-title="India",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28180.jpg" group-title="India",IN | Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28181.jpg" group-title="India",IN | Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28182.jpg" group-title="India",FASTWAY TV
+http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28183.jpg" group-title="India",Kaumudy TV
+https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28184.jpg" group-title="India",Ind TV USA
+https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28185.jpg" group-title="India",NDTV PROFILE
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28186.jpg" group-title="India",Prudent Media
+https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28187.jpg" group-title="India",NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28188.jpg" group-title="India",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28189.jpg" group-title="India",Xplore Channel
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28190.jpg" group-title="India",TOTAL TV
+http://rtmp.smartstream.video/totaltv/totaltv/chunklist_w333449690.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28191.jpg" group-title="India",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28192.jpg" group-title="India",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28193.jpg" group-title="India",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28194.jpg" group-title="India",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28195.jpg" group-title="India",Malaimurasu
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28196.jpg" group-title="India",MH1 News
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28197.jpg" group-title="India",JAN TV
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28198.jpg" group-title="India",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28199.jpg" group-title="India",Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28200.jpg" group-title="India",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28201.jpg" group-title="India",SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28202.jpg" group-title="India",PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28203.jpg" group-title="India",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28204.jpg" group-title="India",KHABARAIN ABHI TAK
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28205.jpg" group-title="India",TANGY PUNJABI TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28206.jpg" group-title="India",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28207.jpg" group-title="India",Xplore Channel
+https://live.streamjo.com/eetlive/eettv.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28208.jpg" group-title="India",RSTV RajyaSabha
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28209.jpg" group-title="India",SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28210.jpg" group-title="India",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28211.jpg" group-title="India",Suvarna News 24×7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28212.jpg" group-title="India",Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/tracks-v1a1/mono.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28213.jpg" group-title="India",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793?source:iptvmate.net
+#EXTINF:0 tvg-country="in" tvg-logo="https://images.iptvmate.net/playlists/28214.jpg" group-title="India",Channel Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8?source:iptvmate.net

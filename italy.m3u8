@@ -1,0 +1,52 @@
+#EXTM3U
+#PLAYLIST:iptvmate.com
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29043.jpg" group-title="Italy",Radio 51 Lombardia
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29044.jpg" group-title="Italy",Rai News 24
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29045.jpg" group-title="Italy",IT | Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29046.jpg" group-title="Italy",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29047.jpg" group-title="Italy",Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29048.jpg" group-title="Italy",Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29049.jpg" group-title="Italy",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29050.jpg" group-title="Italy",Super J TV
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29051.jpg" group-title="Italy",Deejay TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29052.jpg" group-title="Italy",TeleQuattro
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29053.jpg" group-title="Italy",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29054.jpg" group-title="Italy",Otto FM TV
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29055.jpg" group-title="Italy",Radio Capital TV
+https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29056.jpg" group-title="Italy",RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29057.jpg" group-title="Italy",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29058.jpg" group-title="Italy",Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29059.jpg" group-title="Italy",Videostar Canale 193
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/chunklist_w1657085036.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29060.jpg" group-title="Italy",TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29061.jpg" group-title="Italy",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29062.jpg" group-title="Italy",Sophia TV
+https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29063.jpg" group-title="Italy",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29064.jpg" group-title="Italy",Rete 55
+https://stream.internet.one/Rete55_Live/tracks-v1a1/mono.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29065.jpg" group-title="Italy",Tele Pavia
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29066.jpg" group-title="Italy",TeleNordest
+http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="it" tvg-logo="https://images.iptvmate.net/playlists/29067.jpg" group-title="Italy",Studio 100
+https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/chunklist_w807820603.m3u8?source:iptvmate.net
